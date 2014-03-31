@@ -1,5 +1,5 @@
 slimTest
 ========
 
-Estudo da documentação slim,
+Estudo da documentação do framework slim para php,
 acompanhamento da documentação e executando testes.
